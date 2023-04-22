@@ -1,5 +1,5 @@
 import express from "express";
-import { getRandomFact } from "../api.js";
+import { getRandomFact } from "./api.js";
 
 export default function createServer(port = 3000) {
   const app = express();

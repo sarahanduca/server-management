@@ -21,7 +21,7 @@ Para a execução do projeto, execute o comando abaixo:
 
 O projeto será executado no `localhost:3000`, onde aparecerá a seguinte imagem:
 
-![image](./randomFacts.png)
+![image](./assets/randomFacts.png)
 
 Este projeto foi desenvolvido com o consumo da API [Random Facts](https://uselessfacts.jsph.pl), que retorna fatos aleatórios.
 
