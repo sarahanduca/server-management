@@ -19,7 +19,7 @@ Para a execução do projeto, execute o comando abaixo:
 
 `npm start`
 
-O projeto será executado na porta 3000, onde aparecerá a seguinte imagem:
+O projeto será executado no `localhost:3000`, onde aparecerá a seguinte imagem:
 
 ![image](./randomFacts.png)
 
