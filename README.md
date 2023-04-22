@@ -1,4 +1,4 @@
-# Trabalho de Gerencimanto de Servidores - Sistemas Digitais
+# Trabalho de Gerencimanto de Servidores - Sistemas Distribuídos
 
 > Implemente um SD em uma linguagem de sua escolha, e que faça uso de uma das técnicas de passagem de mensagens estudadas na disciplina. O requisito a ser atendido, é que dadas duas ou mais máquinas do SD, se aquela que estiver atendendo requisições cair, a outra deve assumir o controle e o sistema continuar funcionando.
 
